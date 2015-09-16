@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:49:28.383992
+# -*- mode: mandoku-view -*-
 #+TITLE: 登真隱訣
-#+PROPERTY: DZID  DZ0421
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，6—606 三卷 洞玄部玉訣類
+#+DATE: 2015-08-28 23:49:30
+#+PROPERTY:  LASTPB <PB KR5b0105_SJB_003-060617a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶
+
